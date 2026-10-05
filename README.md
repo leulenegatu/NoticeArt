@@ -40,8 +40,7 @@ NoticeArt solves this by providing a **media-first system** that allows users to
 
 ## Setup & Deployment Instructions
 
-### 📱 Option 1: Install the App (Recommended)
-<img src="./screenshots/noticeart_link.png" width="300">
+### 📱 Option 1: Install the App via APK (Recommended)
 
 Download the APK:
 https://drive.google.com/file/d/1eorOxQnASYotOsx3S1g7wiapobNuUrk6/view
